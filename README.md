@@ -1,6 +1,10 @@
 # Nuxt 3 Minimal Starter
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+Source for `graphql-unwrap`: [github.com/jerryjappinen/graphql-unwrap](https://github.com/jerryjappinen/graphql-unwrap)
+
+```sh
+git clone git@github.com:jerryjappinen/graphql-unwrap.git
+```
 
 ## Setup
 
